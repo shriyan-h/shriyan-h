@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 👋 About Me
 
 I'm a BCA student learning Data Science and Machine Learning.
 I build end-to-end ML projects with Python and deploy them as web apps.
