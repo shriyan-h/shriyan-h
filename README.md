@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m a student in my 1st year of college.<br>I’m new to github and so I am not soo use to it.<br>I’m looking to be a part of cool projects<br>I’m learning data analysis and data science which includes python, SQL and more.<br>
+# 👋 About Me
+
+I'm a BCA student learning Data Science and Machine Learning.
+I build end-to-end ML projects with Python and deploy them as web apps.
+Currently working on NLP, Deep Learning, and MLOps.
 
 
 ## 🌐 Socials:
