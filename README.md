@@ -24,7 +24,7 @@ I'm a BCA student learning Data Science and Machine Learning. I build end-to-end
 ## 🌐 Connect with Me:
 <div align="center">
   <a href="https://instagram.com/shriyan_h" target="_blank">
-    <img src="instagram-cat.gif" alt="Instagram" width="100"/>
+    <img src="https://media.tenor.com/E8wH7O86v78AAAAi/suho-cat.gif" alt="Instagram" width="90"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/shriyansh-soni-b9b445399" target="_blank">
@@ -42,7 +42,7 @@ I'm a BCA student learning Data Science and Machine Learning. I build end-to-end
 
 <br>
 
-## 💻 Tech Stack:
+## 💻 Tech Stack: <img src="https://media.tenor.com/Zhf7tC7alrcAAAAi/cat-computer.gif" width="40" alt="Coding Cat">
 <div align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
