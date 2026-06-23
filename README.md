@@ -23,42 +23,49 @@ I'm a BCA student learning Data Science and Machine Learning. I build end-to-end
 
 ## 🌐 Connect with Me:
 <div align="center">
-  <a href="https://instagram.com/shriyan_h">
-    <img src="https://media1.tenor.com/m/1w86y2j2o6gAAAAC/cute-cat.gif" alt="Instagram" width="120"/>
+  <a href="https://instagram.com/shriyan_h" target="_blank">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5bW93MDFvM203ZDR0M3U4cHoxNzh3M3lsZDJyeWVpM3BvYW05NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X3Z06yvQi9vj76GatU/giphy.gif" alt="Instagram" width="100"/>
   </a>
-  <a href="https://linkedin.com/in/shriyansh-soni-b9b445399">
-    <img src="https://media1.tenor.com/m/h9YvU47oXzQAAAAC/doge-dog.gif" alt="LinkedIn" width="120"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/shriyansh-soni-b9b445399" target="_blank">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZlbWNuYWhhdDhuMWxvdzVwMml6OHZleHdrZ2kyZ3JjYW9pNzYwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H76d08yUf4w9M9bB6W/giphy.gif" alt="LinkedIn" width="100"/>
   </a>
-  <a href="https://x.com/@shriy_nsh">
-    <img src="https://media1.tenor.com/m/sP58vY142XAAAAAC/anime-excited.gif" alt="X" width="120"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/@shriy_nsh" target="_blank">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5ubmxsbms4YzA5NmlwcmtwMGlmbW93czloOGN5cm4xOTk1M3A1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8gZ61b3ndYnK0N40S5/giphy.gif" alt="X" width="100"/>
   </a>
-  <a href="mailto:shriyanshsoni288@gmail.com">
-    <img src="https://media1.tenor.com/m/e3X0d740f9wAAAAC/anime-surprised.gif" alt="Email" width="120"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:shriyanshsoni288@gmail.com" target="_blank">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmI2c25vdW05MXJhdHB2d3cyOG9lczB5OGJkdThkMG00ZTI4NnUzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gGcb3N0z7BStmFjAnC/giphy.gif" alt="Email" width="100"/>
   </a>
 </div>
+
+<br>
 
 ## 💻 Tech Stack:
 <div align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-  <br>
-  <img src="https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  <br><2026-06-23>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
 </div>
+
+<br>
 
 ## 📊 GitHub Dashboard:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shriyan-h&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriyan-h&theme=dark&hide_border=false&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shriyan-h&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriyan-h&theme=radical&hide_border=false&layout=compact" height="150" />
 </p>
 
 <br>
 
 ---
 <p align="center">
-  <img src="https://profile-counter.glitch.me/shriyan-h/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shriyan-h&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
