@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>💫 Moin! I'm Shriyansh Soni</h1>
+  <h1>💫 I'm Shriyansh</h1>
   <p><b>BCA Student | Data Science & Machine Learning Learner | End-to-End ML & MLOps Developer</b></p>
 
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=500&lines=BCA+Student;Data+Science+Learner;Building+End-to-End+ML+Apps;Deep+Learning+%26+MLOps" alt="Typing SVG" />
@@ -28,7 +28,7 @@ I build end-to-end Machine Learning projects using Python and deploy them as hig
 
 <div align="center">
   <a href="https://instagram.com/shriyan_h" target="_blank">
-    <img src="https://media.tenor.com/E8wH7O86v78AAAAi/suho-cat.gif" alt="Instagram" width="90"/>
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/shriyansh-soni-b9b445399" target="_blank">
@@ -46,7 +46,7 @@ I build end-to-end Machine Learning projects using Python and deploy them as hig
 
 <br><br>
 
-## 💻 Tech Stack & Skills <img src="https://media.tenor.com/Zhf7tC7alrcAAAAi/cat-computer.gif" width="40" alt="Coding Cat">
+## 💻 Tech Stack & Skills
 
 ### 🚀 Core Languages & Web Foundations
 <div align="left">
