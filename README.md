@@ -4,19 +4,16 @@ I'm a BCA student learning Data Science and Machine Learning. I build end-to-end
 
 <br>
 
-<!-- Dynamic Typing Animation Headline -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=500&lines=BCA+Student;Data+Science+Learner;Building+End-to-End+ML+Apps;Deep+Learning+%26+MLOps" alt="Typing SVG" />
 </p>
 
 <br>
 
-<!-- Collapsible Modern Project Dropdown Layout -->
 <details>
   <summary><b>🛠️ Click to expand Project Deep-Dives</b></summary>
   <br>
   <ul>
-    <li><b>HostelHype:</b> Static student housing web platform deployed via Netlify pipelines with GoDaddy DNS mapping.</li>
     <li><b>Bank Management System:</b> Python-driven application with an interactive Streamlit UI.</li>
     <li><b>YtComments:</b> NLP backend utilizing the YouTube API for public comment harvesting and automated word frequency analysis.</li>
   </ul>
@@ -27,16 +24,16 @@ I'm a BCA student learning Data Science and Machine Learning. I build end-to-end
 ## 🌐 Connect with Me:
 <div align="center">
   <a href="https://instagram.com/shriyan_h">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://media1.tenor.com/m/1w86y2j2o6gAAAAC/cute-cat.gif" alt="Instagram" width="120"/>
   </a>
   <a href="https://linkedin.com/in/shriyansh-soni-b9b445399">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://media1.tenor.com/m/h9YvU47oXzQAAAAC/doge-dog.gif" alt="LinkedIn" width="120"/>
   </a>
   <a href="https://x.com/@shriy_nsh">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/>
+    <img src="https://media1.tenor.com/m/sP58vY142XAAAAAC/anime-excited.gif" alt="X" width="120"/>
   </a>
   <a href="mailto:shriyanshsoni288@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://media1.tenor.com/m/e3X0d740f9wAAAAC/anime-surprised.gif" alt="Email" width="120"/>
   </a>
 </div>
 
@@ -62,4 +59,6 @@ I'm a BCA student learning Data Science and Machine Learning. I build end-to-end
 <br>
 
 ---
-<p align="center">Profile Views: <img src="https://visitcount.itsvg.in/api?id=shriyan-h&icon=0&color=0" alt="visitor count" /></p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/shriyan-h/count.svg" alt="Profile Views" />
+</p>
