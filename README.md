@@ -24,7 +24,7 @@ I'm a BCA student learning Data Science and Machine Learning. I build end-to-end
 ## 🌐 Connect with Me:
 <div align="center">
   <a href="https://instagram.com/shriyan_h" target="_blank">
-    <img src="https://media.tenor.com/E8wH7O86v78AAAAi/suho-cat.gif" alt="Instagram" width="90"/>
+    <img src=["https://media.tenor.com/E8wH7O86v78AAAAi/suho-cat.gif" alt="Instagram" width="90"](https://tenor.com/en-IN/view/suho-cat-cute-cute-cat-sticker-gif-9523361921688329912)/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/shriyansh-soni-b9b445399" target="_blank">
