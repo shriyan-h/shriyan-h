@@ -1,5 +1,5 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px;">
-  <img src="https://i.pinimg.com/1200x/e5/cd/14/e5cd149a6aa577f882daccfbdf1c255c.jpg" alt="Profile Icon" style="height: 32px; width: 32px; object-fit: cover; border-radius: 50%;" />
+  <img src="https://i.pinimg.com/1200x/e5/cd/14/e5cd149a6aa577f882daccfbdf1c255c.jpg" alt="Profile Icon" style="height: 100px; width: 100px; object-fit: cover; border-radius: 50%;" />
   <h1 style="margin: 0; display: inline-block;">💫 I'm Shriyansh</h1>
 </div>
 
@@ -29,7 +29,7 @@ I build end-to-end Machine Learning projects using Python and deploy them as hig
 
 ## 🌐 Connect with Me:
 
-<div align="center">
+<div align="left">
   <a href="https://instagram.com/shriyan_h" target="_blank">
     <img src="https://i.pinimg.com/1200x/c2/e7/93/c2e7937cecbb17520dce0e4948f194a5.jpg" alt="Instagram" style="width: 48px; height: 48px; object-fit: cover; border-radius: 10px; margin: 0 12px; display: inline-block;"/>
   </a>
