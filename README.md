@@ -28,19 +28,16 @@ I build end-to-end Machine Learning projects using Python and deploy them as hig
 
 <div align="center">
   <a href="https://instagram.com/shriyan_h" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://i.pinimg.com/1200x/c2/e7/93/c2e7937cecbb17520dce0e4948f194a5.jpg" height="35" alt="Instagram" style="border-radius: 8px; margin: 0 10px;"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/shriyansh-soni-b9b445399" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://i.pinimg.com/1200x/65/02/67/6502672aa79389ad2c6080f1240a67eb.jpg" height="35" alt="LinkedIn" style="border-radius: 8px; margin: 0 10px;"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/@shriy_nsh" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://i.pinimg.com/1200x/f7/b8/82/f7b88227115c0f076c245d7450d5f976.jpg" height="35" alt="X" style="border-radius: 8px; margin: 0 10px;"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:shriyanshsoni288@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://i.pinimg.com/736x/36/06/ef/3606ef846ff95b9a22665f66e9704088.jpg" height="35" alt="Email" style="border-radius: 8px; margin: 0 10px;"/>
   </a>
 </div>
 
@@ -107,8 +104,9 @@ I build end-to-end Machine Learning projects using Python and deploy them as hig
   <img src="https://komarev.com/ghpvc/?username=shriyan-h&color=36BCF7&style=plastic&label=Profile+Views" alt="Profile Views" />
 </p>
 
+<br>
+
 <div align="center">
   <img src="https://i.pinimg.com/736x/f3/05/6e/f3056eb5fe74e651d1bbf0b832b13198.jpg" width="250" alt="Thinking Cat Programming" />
 </div>
-
 
