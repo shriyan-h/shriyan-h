@@ -24,19 +24,19 @@ I'm a BCA student learning Data Science and Machine Learning. I build end-to-end
 ## 🌐 Connect with Me:
 <div align="center">
   <a href="https://instagram.com/shriyan_h" target="_blank">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5bW93MDFvM203ZDR0M3U4cHoxNzh3M3lsZDJyeWVpM3BvYW05NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X3Z06yvQi9vj76GatU/giphy.gif" alt="Instagram" width="100"/>
+    <img src="instagram-cat.gif" alt="Instagram" width="100"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/shriyansh-soni-b9b445399" target="_blank">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZlbWNuYWhhdDhuMWxvdzVwMml6OHZleHdrZ2kyZ3JjYW9pNzYwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H76d08yUf4w9M9bB6W/giphy.gif" alt="LinkedIn" width="100"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/@shriy_nsh" target="_blank">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm5ubmxsbms4YzA5NmlwcmtwMGlmbW93czloOGN5cm4xOTk1M3A1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8gZ61b3ndYnK0N40S5/giphy.gif" alt="X" width="100"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:shriyanshsoni288@gmail.com" target="_blank">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmI2c25vdW05MXJhdHB2d3cyOG9lczB5OGJkdThkMG00ZTI4NnUzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gGcb3N0z7BStmFjAnC/giphy.gif" alt="Email" width="100"/>
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 
@@ -48,7 +48,7 @@ I'm a BCA student learning Data Science and Machine Learning. I build end-to-end
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-  <br><2026-06-23>
+  <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -59,7 +59,6 @@ I'm a BCA student learning Data Science and Machine Learning. I build end-to-end
 
 ## 📊 GitHub Dashboard:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shriyan-h&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shriyan-h&theme=radical&hide_border=false&layout=compact" height="150" />
 </p>
 
@@ -67,5 +66,5 @@ I'm a BCA student learning Data Science and Machine Learning. I build end-to-end
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shriyan-h&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shriyan-h&color=36BCF7&style=plastic&label=Profile+Views" alt="Profile Views" />
 </p>
