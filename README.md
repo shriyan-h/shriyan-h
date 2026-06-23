@@ -1,7 +1,10 @@
-<div align="center">
-  <h1>💫 I'm Shriyansh</h1>
-  <p><b>BCA Student | Data Science & Machine Learning Learner | End-to-End ML & MLOps Developer</b></p>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 15px;">
+  <img src="https://i.pinimg.com/1200x/e5/cd/14/e5cd149a6aa577f882daccfbdf1c255c.jpg" alt="Profile Icon" style="height: 32px; width: 32px; object-fit: cover; border-radius: 50%;" />
+  <h1 style="margin: 0; display: inline-block;">💫 I'm Shriyansh</h1>
+</div>
 
+<div align="center">
+  <p><b>BCA Student | Data Science & Machine Learning Learner | End-to-End ML & MLOps Developer</b></p>
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=500&lines=BCA+Student;Data+Science+Learner;Building+End-to-End+ML+Apps;Deep+Learning+%26+MLOps" alt="Typing SVG" />
 </div>
 
@@ -28,16 +31,16 @@ I build end-to-end Machine Learning projects using Python and deploy them as hig
 
 <div align="center">
   <a href="https://instagram.com/shriyan_h" target="_blank">
-    <img src="https://i.pinimg.com/1200x/c2/e7/93/c2e7937cecbb17520dce0e4948f194a5.jpg" height="35" alt="Instagram" style="border-radius: 8px; margin: 0 10px;"/>
+    <img src="https://i.pinimg.com/1200x/c2/e7/93/c2e7937cecbb17520dce0e4948f194a5.jpg" alt="Instagram" style="width: 48px; height: 48px; object-fit: cover; border-radius: 10px; margin: 0 12px; display: inline-block;"/>
   </a>
   <a href="https://linkedin.com/in/shriyansh-soni-b9b445399" target="_blank">
-    <img src="https://i.pinimg.com/1200x/65/02/67/6502672aa79389ad2c6080f1240a67eb.jpg" height="35" alt="LinkedIn" style="border-radius: 8px; margin: 0 10px;"/>
+    <img src="https://i.pinimg.com/1200x/65/02/67/6502672aa79389ad2c6080f1240a67eb.jpg" alt="LinkedIn" style="width: 48px; height: 48px; object-fit: cover; border-radius: 10px; margin: 0 12px; display: inline-block;"/>
   </a>
   <a href="https://x.com/@shriy_nsh" target="_blank">
-    <img src="https://i.pinimg.com/1200x/f7/b8/82/f7b88227115c0f076c245d7450d5f976.jpg" height="35" alt="X" style="border-radius: 8px; margin: 0 10px;"/>
+    <img src="https://i.pinimg.com/1200x/f7/b8/82/f7b88227115c0f076c245d7450d5f976.jpg" alt="X" style="width: 48px; height: 48px; object-fit: cover; border-radius: 10px; margin: 0 12px; display: inline-block;"/>
   </a>
   <a href="mailto:shriyanshsoni288@gmail.com" target="_blank">
-    <img src="https://i.pinimg.com/736x/36/06/ef/3606ef846ff95b9a22665f66e9704088.jpg" height="35" alt="Email" style="border-radius: 8px; margin: 0 10px;"/>
+    <img src="https://i.pinimg.com/736x/36/06/ef/3606ef846ff95b9a22665f66e9704088.jpg" alt="Email" style="width: 48px; height: 48px; object-fit: cover; border-radius: 10px; margin: 0 12px; display: inline-block;"/>
   </a>
 </div>
 
@@ -106,7 +109,8 @@ I build end-to-end Machine Learning projects using Python and deploy them as hig
 
 <br>
 
-<div align="center">
-  <img src="https://i.pinimg.com/736x/f3/05/6e/f3056eb5fe74e651d1bbf0b832b13198.jpg" width="250" alt="Thinking Cat Programming" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://i.pinimg.com/736x/f3/05/6e/f3056eb5fe74e651d1bbf0b832b13198.jpg" style="width: 250px; height: 250px; object-fit: cover; border-radius: 12px;" alt="Thinking Cat Programming" />
+  <img src="https://i.pinimg.com/736x/36/f6/4a/36f64a6089fddde55114db64473f437a.jpg" style="width: 250px; height: 250px; object-fit: cover; border-radius: 12px;" alt="Secondary Aesthetics Artwork" />
 </div>
 
