@@ -108,7 +108,7 @@ I build end-to-end Machine Learning projects using Python and deploy them as hig
 </p>
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/f3/05/6e/f3056eb5fe74e651d1bbf0b832b13198.jpg" width="450" alt="Thinking Cat Programming" />
+  <img src="https://i.pinimg.com/736x/f3/05/6e/f3056eb5fe74e651d1bbf0b832b13198.jpg" width="250" alt="Thinking Cat Programming" />
 </div>
 
 
