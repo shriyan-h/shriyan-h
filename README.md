@@ -111,6 +111,5 @@ I build end-to-end Machine Learning projects using Python and deploy them as hig
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img src="https://i.pinimg.com/736x/f3/05/6e/f3056eb5fe74e651d1bbf0b832b13198.jpg" style="width: 250px; height: 250px; object-fit: cover; border-radius: 12px;" alt="Thinking Cat Programming" />
-  <img src="https://i.pinimg.com/736x/36/f6/4a/36f64a6089fddde55114db64473f437a.jpg" style="width: 250px; height: 250px; object-fit: cover; border-radius: 12px;" alt="Secondary Aesthetics Artwork" />
 </div>
 
